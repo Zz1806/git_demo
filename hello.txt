@@ -15,4 +15,5 @@ hello git!
 hello git!
 hello git! master test
 hello git! master
-hello git! master test
+hello git! zz
+hello git! zz
